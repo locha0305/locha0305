@@ -1,16 +1,13 @@
-### Hi there 👋
+### locha(jaeyun cha)
+## 1. 소개 👋
+이름 : 차재윤 
+나이 : 15
 
-<!--
-**locha0305/locha0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 2. 사용 언어
+- python
+- java
 
-Here are some ideas to get you started:
+## 3. 관심사
+- 수학
+- 딥러닝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
